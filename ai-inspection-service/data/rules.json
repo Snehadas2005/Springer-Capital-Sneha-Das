@@ -1,0 +1,12 @@
+[
+  {
+    "rule_id": "FINRA-2210",
+    "title": "Communications with the Public",
+    "description": "Promising guaranteed returns, fixed percentage returns without risk disclaimers, or claims of zero market risk is strictly prohibited."
+  },
+  {
+    "rule_id": "SEC-ADV-2",
+    "title": "Performance Disclosures",
+    "description": "All performance claims must explicitly state that past performance does not guarantee future results."
+  }
+]
