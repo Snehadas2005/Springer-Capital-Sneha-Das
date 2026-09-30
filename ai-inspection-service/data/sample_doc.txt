@@ -1,0 +1,4 @@
+text1: "Investment in securities involves market risks. Past performance is no guarantee of future results. Please read all scheme-related risk disclosures and financial terms carefully before investing."
+text2: "We offer a risk-free wealth management plan where we guarantee all clients a fixed 12% annual return on their capital. Based on our stellar track record over the last decade, your capital will grow consistently every single quarter."
+text3: "Our flagship fund delivered an unprecedented 24% return over the past 3 years, significantly outperforming the S&P 500 index. Investors can view our detailed quarterly reports upon request."
+text4: "Investment Agreement for Jane Smith (SSN: 987-65-4321, Account #AC-99120). We guarantee Jane Smith an 18% annual return on investment without any market risk."
