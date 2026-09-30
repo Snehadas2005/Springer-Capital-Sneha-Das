@@ -30,7 +30,7 @@ def inspect_document_with_ai(document_text: str, client: genai.Client) -> List[V
     """
     # Gemini API Call with Structured Output Enforced
     response = client.models.generate_content(
-        model='gemini-3.6-flash',
+        model='gemini-3.5-flash-lite',
         contents=document_text,
         config=types.GenerateContentConfig(
             system_instruction=system_instruction,
